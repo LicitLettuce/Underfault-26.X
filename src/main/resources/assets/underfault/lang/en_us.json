@@ -1,0 +1,13 @@
+{
+  "itemGroup.underfault": "Example Mod Tab",
+  "block.underfault.example_block": "Example Block",
+  "item.underfault.example_item": "Example Item",
+
+  "underfault.configuration.title": "The Underfault Configs",
+  "underfault.configuration.section.underfault.common.toml": "The Underfault Configs",
+  "underfault.configuration.section.underfault.common.toml.title": "The Underfault Configs",
+  "underfault.configuration.items": "Item List",
+  "underfault.configuration.logDirtBlock": "Log Dirt Block",
+  "underfault.configuration.magicNumberIntroduction": "Magic Number Text",
+  "underfault.configuration.magicNumber": "Magic Number"
+}
